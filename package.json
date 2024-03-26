@@ -1,5 +1,5 @@
 {
-  "name": "welcome2023",
+  "name": "welcome",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "pub": "yarn build && rm dist.zip && 7z a dist.zip dist && scp -i id_rsa dist.zip  meister-cc@meister-cc.sakura.ne.jp:~/www/"
   },
-  "homepage": "https://meister.ne.jp/welcome2023",
+  "homepage": "https://titechmeister.github.io/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
