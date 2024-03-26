@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "postbuild": "cp dist/index.html dist/404.html",
     "pub": "yarn build && rm dist.zip && 7z a dist.zip dist && scp -i id_rsa dist.zip  meister-cc@meister-cc.sakura.ne.jp:~/www/"
   },
   "homepage": "https://titechmeister.github.io/",
