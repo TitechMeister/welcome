@@ -10,7 +10,7 @@ export default function ASU() {
                 <CardHeader title="ASU (Arena Set-Up)" />
                 <CardContent>
                     <Typography>
-                        5月6日深夜～5月7日朝 <br />
+                        4月6日深夜～4月7日朝 <br />
                         昨年の8月から、私たちは鳥人間コンテストに向けて機体を製作してきました。<br />
                         みんなで作った機体を初めて組み上げるのが、このASUです。<br/>
                         実際の機体を近くで見ることができる数少ない機会です！<br/>

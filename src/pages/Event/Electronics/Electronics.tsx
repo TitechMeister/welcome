@@ -1,21 +1,20 @@
-import { ImageList, ImageListItem, Button, Card, CardContent, CardHeader } from '@mui/material';
-import img_1 from './img/1.png'
+import { ImageList, ImageListItem, Button, Card, CardContent, CardHeader, CardMedia } from '@mui/material';
+import video from './img/slot.mp4';
+
 
 export default function Electronics() {
     return (
-        <div className='close'>
-            <Card>
-                <CardHeader title="作業体験(電装)" />
-                <CardContent>
-                    <ImageList>
-                        <ImageListItem key="1">
-                            <img src={img_1} />
-                        </ImageListItem>
-                    </ImageList>
-                    作業体験（電装）特設サイトを開きました。
-                    <Button variant='outlined' href='https://titechmeister.github.io/Device-ATmega88_Board/'>詳しくはこちら</Button>
-                </CardContent>
-            </Card>
-        </div>
+        <Card>
+            <CardHeader title="作業体験(電装)" />
+            <CardContent>
+                <CardMedia>
+                    <video controls width="100%">
+                        <source src={video} type="video/mp4"/>
+                    </video>
+                </CardMedia>
+                ATTiny2313を使ってスロットマシーンを作ります。
+                4/10,4/13,4/14,4/17,4/24,4/28に行う予定です。
+            </CardContent>
+        </Card>
     )
 };
