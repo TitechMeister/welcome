@@ -1,4 +1,4 @@
-import { ImageList, ImageListItem, Typography, Card, CardHeader, CardContent, CardMedia } from '@mui/material';
+import { ImageList, ImageListItem, Typography, Card, CardHeader, CardContent, CardMedia, Button } from '@mui/material';
 import img_1 from './img/1.jpg'
 import img_2 from './img/2.jpg'
 import video from './img/contest2023.mp4'
@@ -14,17 +14,8 @@ export default function Contest() {
                 </video>
             </CardMedia>
             <CardContent>
-                <Typography>
-                    4/24(水)に説明会を行います。5/15(水)にコンテストを行います。詳細は説明会でお伝えします。
-                </Typography>
-                <ImageList>
-                    <ImageListItem key="1">
-                        <img src={img_1} />
-                    </ImageListItem>
-                    <ImageListItem key="2">
-                        <img src={img_2} />
-                    </ImageListItem>
-                </ImageList>
+                4/24(水)に説明会を行います。5/15(水)にコンテストを行います。詳細は説明会でお伝えします。
+                <Button variant="outlined" color="primary" href="https://forms.gle/bhcp8ycpL7aeqjwU8" target="_blank" sx={{padding:2 , alignSelf:"center"}}>参加申し込み</Button>
             </CardContent>
         </Card>
     )
