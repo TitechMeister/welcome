@@ -3,15 +3,14 @@ import { Button, Typography, Box, CssBaseline, ImageListItem, Card, CardHeader, 
 function Admission() {
     return (
         <div className="Admission">
-            <Typography>準備中</Typography>
             <CssBaseline />
             <Stack spacing={2} margin={2}>
-                {/* <Typography variant='h4' margin={2}>入部方法</Typography>
+                <Typography variant='h4' margin={2}>入部方法</Typography>
                 <Card>
                     <CardHeader title='1. Google Formで登録' />
                     <CardContent>
                         <Typography paragraph>
-                            <Button href='https://docs.google.com/forms/d/e/1FAIpQLSfWmLTvoghXkrdt5nZBaXhEW406MeQYweI29VWvjYB2sTchEQ/viewform' variant='outlined'>Google Form</Button>に学籍番号や名前などを入力し提出しましょう！　確認のメールが来るかチェックしてください！
+                            <Button href='https://docs.google.com/forms/d/e/1FAIpQLSf3I5jq7gi71pjjrtug1ICwhqtoxha9GwXNSABlhe4zeqiuvg/viewform' variant='outlined'>Google Form</Button>に学籍番号や名前などを入力し提出しましょう！　確認のメールが来るかチェックしてください！
                         </Typography>
                     </CardContent>
                 </Card>
@@ -33,7 +32,7 @@ function Admission() {
                             班所属の後いよいよ活動が始まります。　これから一緒に人力飛行機を作りましょう！
                         </Typography>
                     </CardContent>
-                </Card> */}
+                </Card>
             </Stack>
         </div>
     )
