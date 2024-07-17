@@ -3,6 +3,7 @@
 ## About
 
 Meister新歓サイトは、Meisterの新歓情報をまとめたサイトです。
+React製だった
 
 ## Local Development
 
