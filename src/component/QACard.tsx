@@ -2,7 +2,6 @@ import * as React from 'react';
 import { Chip, Paper } from '@mui/material';
 import Divider from '@mui/material/Divider';
 import { styled } from '@mui/material/styles';
-import { ReactJSXElement } from '@emotion/react/types/jsx-namespace';
 
 
 const Item = styled(Paper)(({ theme }) => ({
@@ -19,7 +18,7 @@ interface Props {
      * You won't need it on your project.
      */
     question?: string,
-    children?: ReactJSXElement
+    children?: React.ReactNode
 }
 
 const QACard: React.FC<Props> = ({ question, children }) => (
