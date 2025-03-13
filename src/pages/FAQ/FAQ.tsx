@@ -10,7 +10,7 @@ function FAQ() {
 
                 <QACard question='活動頻度はどれくらいですか？'>
                     <Typography variant="body1" padding={2} >
-                        所属する班によりますが、水曜の午後を中心に週3ぐらいです。大会前などは忙しくなります。 ※現在はコロナ禍のため活動頻度を落としています。
+                        所属する班や各々のモチベーションによりますが、基本的に作業への参加は強制しません。週1,2での参加も毎日倉庫で作業してくれる人も歓迎しております。
                     </Typography>
                 </QACard>
 
@@ -40,7 +40,7 @@ function FAQ() {
 
                 <QACard question='部員はどのくらいいるの？'>
                     <Typography variant="body1" padding={2} >
-                        現在は、32人で活動しています。
+                        現在は、43人で活動しています。
                     </Typography>
                 </QACard>
 
@@ -52,7 +52,7 @@ function FAQ() {
 
                 <QACard question='作業以外に何か楽しいことはありますか？'>
                     <Typography variant="body1" padding={2} >
-                        毎年春休みに旅行を企画しています。（コロナ禍のため実施しない場合もあります）
+                        毎年春休みに旅行を企画しています。
                     </Typography>
                 </QACard>
 
