@@ -4,7 +4,8 @@ import video from './img/slot.mp4';
 
 export default function Electronics() {
     return (
-        <Card>
+        // <Card>
+        <Card className='close'>
             <CardHeader title="作業体験(電装)" />
             <CardContent>
                 <CardMedia>

@@ -26,7 +26,7 @@ function Links() {
                             <Avatar  sx={{ color: '#1DA1F2',bgcolor: 'white' }}>
                                 <TwitterIcon />
                             </Avatar>
-                            <Typography variant='h6' padding={2}><a href="https://twitter.com/meister_2023">公式Twitter</a></Typography>
+                            <Typography variant='h6' padding={2}><a href="https://x.com/meister_welcome">公式Twitter</a></Typography>
                         </Stack>
                     </Card>
                 </ListItem>

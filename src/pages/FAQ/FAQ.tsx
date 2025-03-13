@@ -63,7 +63,7 @@ function FAQ() {
                             meisterwelcome2021@gmail.com
                         </a><br />
                         Twitter:
-                        <a href="https://twitter.com/Meister_2023">
+                        <a href="https://x.com/meister_welcome">
                             @Meister_2023
                         </a><br />
                         LINE:

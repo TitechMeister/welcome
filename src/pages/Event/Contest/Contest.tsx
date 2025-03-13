@@ -5,8 +5,8 @@ import video from './img/contest2023.mp4'
 
 export default function Contest() {
     return (
-        // <Card className='close'>
-        <Card>
+        // <Card>
+        <Card className='close'>
             <CardHeader title="模型飛行機コンテスト" />
             <CardMedia>
                 <video controls width={"100%"}>
