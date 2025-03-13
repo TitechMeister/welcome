@@ -57,7 +57,7 @@ function Home() {
                 </Carousel>
 
                 <Typography paragraph>
-                    こんにちは！東京工業大学 Meister(マイスター)の新歓ページにようこそ。
+                    こんにちは！東京科学大学 Meister(マイスター)の新歓ページにようこそ。
                 </Typography>
                 <Typography paragraph>
                     Meisterは人力飛行機の制作を中心に活動をするものつくりサークルです。
