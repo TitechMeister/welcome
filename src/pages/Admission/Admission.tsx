@@ -6,7 +6,9 @@ function Admission() {
             <CssBaseline />
             <Stack spacing={2} margin={2}>
                 <Typography variant='h4' margin={2}>入部方法</Typography>
-                <Card>
+
+                <Typography>Coming Soon...</Typography>
+                {/* <Card>
                     <CardHeader title='1. Google Formで登録' />
                     <CardContent>
                         <Typography paragraph>
@@ -32,7 +34,7 @@ function Admission() {
                             班所属の後いよいよ活動が始まります。　これから一緒に人力飛行機を作りましょう！
                         </Typography>
                     </CardContent>
-                </Card>
+                </Card> */}
             </Stack>
         </div>
     )
