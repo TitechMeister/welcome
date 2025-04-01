@@ -64,7 +64,7 @@ function FAQ() {
                         </a><br />
                         Twitter:
                         <a href="https://x.com/meister_welcome">
-                            @Meister_2023
+                            @meister_welcome
                         </a><br />
                         LINE:
                         <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=722fzwlk">
