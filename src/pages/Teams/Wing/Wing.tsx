@@ -1,6 +1,6 @@
 import { ImageList, ImageListItem, Typography, Card, CardContent, CardHeader, Stack } from '@mui/material';
 import img_1 from './img/1.jpg'
-import img_2 from './img/2.jpg'
+import img_2 from './img/wing2.jpg'
 
 import QACard from '../../../component/QACard';
 
@@ -45,7 +45,7 @@ export default function Wing() {
                     <QACard question='翼班の魅力は？'>
                         <Typography padding={2}  >
                             ・完成したときの達成感が壮大！<br />
-                            ・作業環境が快適！（他班と違って翼班は冷暖房完備の講義室で作業してます。なので、新歓時期にあまり倉庫にいないかも…。）<br />
+                            ・作業環境が快適！（作業量が多くて倉庫に来ることも多いので、他の班の人とも仲良くなりやすいです！）<br />
                             ・他の班に比べて班の構成人数が多い<br />
                             ・手先が器用になる！　　など
                         </Typography>

@@ -1,6 +1,6 @@
 import { ImageList, ImageListItem, Typography, Card, CardHeader, CardContent } from '@mui/material';
-import img_1 from './img/1.jpg'
-import img_2 from './img/2.jpg'
+import img_1 from './img/frame1.jpg'
+import img_2 from './img/frame2.jpg'
 
 export default function Frame() {
     return (
