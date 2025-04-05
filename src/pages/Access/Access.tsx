@@ -1,5 +1,5 @@
 import { Typography } from '@mui/material';
-import img_map from '.bluedoor.png'
+import img_map from './img/map.jpg'
 
 function Access() {
     return (
