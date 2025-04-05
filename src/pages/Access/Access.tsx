@@ -12,8 +12,9 @@ function Access() {
             </Typography>
             <Typography>
             直接活動場所に来ても大丈夫ですが、部員がいないこともあるため、できるだけ事前に連絡先(
-                  <a href="mailto:meisterwelcome2021@gmail.com">メール</a>、
+                  <a href="mailto:meister.shinkan2025@gmail.com">メール</a>、
                   <a href="https://twitter.com/Meister_2023">Twitter</a>、
+                  <a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">Instagram</a>、
                   <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=722fzwlk">LINE</a>
                   のいずれか )まで連絡をしてください。
             </Typography>

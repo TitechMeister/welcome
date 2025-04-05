@@ -1,6 +1,5 @@
 import { Typography, Card, Stack, List, ListItem, Avatar } from '@mui/material';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import instagramIcon from '@mui/icons-material/instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import HomeIcon from '@mui/icons-material/Home';
