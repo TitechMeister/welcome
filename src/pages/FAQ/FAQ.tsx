@@ -10,13 +10,13 @@ function FAQ() {
 
                 <QACard question='活動頻度はどれくらいですか？'>
                     <Typography variant="body1" padding={2} >
-                        所属する班や各々のモチベーションによりますが、基本的に作業への参加は強制しません。週1,2での参加も毎日倉庫で作業してくれる人も歓迎しております。
+                        所属する班や各々のモチベーションによりますが、平均して週二日ほどです。鳥コン直前は忙しくなることが多いです
                     </Typography>
                 </QACard>
 
                 <QACard question='バイト・勉強との両立は出来ますか？'>
                     <Typography variant="body1" padding={2} >
-                        はい、出来ます。先輩の多くはバイトをしていますし、更に他サークルの活動も楽しんでいる人もいます。
+                        はい、出来ます。多くの部員がバイトをしていますし、勉強面でも成績優秀な人が多いです。
                     </Typography>
                 </QACard>
 
@@ -59,8 +59,8 @@ function FAQ() {
                 <QACard question='もっと詳しい話を聞きたいんですが……。'>
                     <Typography variant="body1" padding={2} >
                         Mail:
-                        <a href="meisterwelcome2021@gmail.com">
-                            meisterwelcome2021@gmail.com
+                        <a href="meister.shinkan2025@gmail.com">
+                            meister.shinkan2025@gmail.com
                         </a><br />
                         Twitter:
                         <a href="https://x.com/meister_welcome">
@@ -69,6 +69,10 @@ function FAQ() {
                         LINE:
                         <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=722fzwlk">
                             Meister新歓
+                        </a><br />
+                        Instagram:
+                        <a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">
+                            東京科学大学Meister新歓
                         </a>
                     </Typography>
                 </QACard>

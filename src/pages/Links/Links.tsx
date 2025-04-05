@@ -33,6 +33,16 @@ function Links() {
                 <ListItem>
                     <Card sx={{ margin: 1 }}>
                         <Stack direction="row" alignItems={'center'}>
+                            <Avatar  sx={{ color: '#1DA1F2',bgcolor: 'white' }}>
+                                <HomeIcon />
+                            </Avatar>
+                            <Typography variant='h6' padding={2}><a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">公式Instagram</a></Typography>
+                        </Stack>
+                    </Card>
+                </ListItem>
+                <ListItem>
+                    <Card sx={{ margin: 1 }}>
+                        <Stack direction="row" alignItems={'center'}>
                             <Avatar  sx={{ color: 'red',bgcolor: 'white' }}>
                                 <YouTubeIcon/>
                             </Avatar>
