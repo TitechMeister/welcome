@@ -1,5 +1,6 @@
 import { Typography, Card, Stack, List, ListItem, Avatar } from '@mui/material';
 import TwitterIcon from '@mui/icons-material/Twitter';
+import instagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import HomeIcon from '@mui/icons-material/Home';
@@ -27,6 +28,16 @@ function Links() {
                                 <TwitterIcon />
                             </Avatar>
                             <Typography variant='h6' padding={2}><a href="https://x.com/meister_welcome">公式Twitter</a></Typography>
+                        </Stack>
+                    </Card>
+                </ListItem>
+                <ListItem>
+                    <Card sx={{ margin: 1 }}>
+                        <Stack direction="row" alignItems={'center'}>
+                            <Avatar  sx={{ color: '#1DA1F2',bgcolor: 'white' }}>
+                                <TwitterIcon />
+                            </Avatar>
+                            <Typography variant='h6' padding={2}><a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">公式Instagram</a></Typography>
                         </Stack>
                     </Card>
                 </ListItem>

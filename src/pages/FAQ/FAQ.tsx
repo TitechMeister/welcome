@@ -70,7 +70,7 @@ function FAQ() {
                         <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=722fzwlk">
                             Meister新歓
                         </a><br />
-                        LINE:
+                        Instagram:
                         <a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">
                             東京科学大学Meister新歓
                         </a>
