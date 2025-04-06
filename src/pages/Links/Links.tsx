@@ -4,6 +4,7 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import HomeIcon from '@mui/icons-material/Home';
 import img_line_logo from './img/LINE_Brand_icon.png'
+import { Instagram } from '@mui/icons-material';
 
 function Links() {
     return (
@@ -33,8 +34,8 @@ function Links() {
                 <ListItem>
                     <Card sx={{ margin: 1 }}>
                         <Stack direction="row" alignItems={'center'}>
-                            <Avatar  sx={{ color: '#1DA1F2',bgcolor: 'white' }}>
-                                <HomeIcon />
+                            <Avatar  sx={{ color: 'orange',bgcolor: 'white' }}>
+                                <Instagram />
                             </Avatar>
                             <Typography variant='h6' padding={2}><a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">公式Instagram</a></Typography>
                         </Stack>

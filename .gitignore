@@ -12,6 +12,8 @@ dist
 dist.zip
 dist-ssr
 *.local
+.yarn
+.yarnrc.yml
 
 # auth
 id_rsa
