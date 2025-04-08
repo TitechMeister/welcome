@@ -1,5 +1,5 @@
 import { ImageList, ImageListItem, Typography, Card, CardContent, CardHeader } from '@mui/material';
-import img_1 from './img/232425pilot.jpg'
+import img_1 from './img/232425pilot2.jpg'
 import img_2 from './img/pilot25ergo.jpg'
 
 export default function Pilot() {
