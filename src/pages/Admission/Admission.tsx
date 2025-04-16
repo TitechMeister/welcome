@@ -30,7 +30,7 @@ function Admission() {
                     <CardHeader title='3. Finish !'/>
                     <CardContent>
                         <Typography>
-                            班所属の後いよいよ活動が始まります。　これから一緒に人力飛行機を作りましょう！
+                            仮班所属の後いよいよ活動が始まります。これから一緒に人力飛行機を作りましょう！
                         </Typography>
                     </CardContent>
                 </Card> 
