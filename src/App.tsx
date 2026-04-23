@@ -7,6 +7,8 @@ import Teams from './pages/Teams/Teams';
 import Event from './pages/Event/Event';
 import Links from './pages/Links/Links';
 import FAQ from './pages/FAQ/FAQ';
+import Interview from './pages/Interview/Interview';
+import InterviewRedirect from './pages/Interview/Redirect';
 import Access from './pages/Access/Access';
 import NotFound from './pages/NotFound';
 import Admission from './pages/Admission/Admission';
@@ -19,8 +21,22 @@ import { ScrollRestoration, createBrowserRouter, RouterProvider, Outlet } from "
 interface Props {
 }
 
-const items = [
+// menu items shown in the top nav (Interview intentionally omitted)
+const menuItems = [
   { title: 'トップ', element: <Home />, path: '/' },
+  { title: 'インタビュー', element: <InterviewRedirect />, path: '/interview' },
+  { title: '班紹介', element: <Teams />, path: '/teams' },
+  { title: '新歓イベント', element: <Event />, path: '/event' },
+  { title: 'よくある質問', element: <FAQ />, path: '/faq' },
+  { title: '入部方法', element: <Admission />, path: '/admission' },
+  { title: 'アクセス', element: <Access />, path: '/access' },
+  { title: 'リンク', element: <Links />, path: '/links' }
+]
+
+// routes used by the router (includes interview route)
+const routes = [
+  { title: 'トップ', element: <Home />, path: '/' },
+  { title: 'インタビュー', element: <InterviewRedirect />, path: '/interview' },
   { title: '班紹介', element: <Teams />, path: '/teams' },
   { title: '新歓イベント', element: <Event />, path: '/event' },
   { title: 'よくある質問', element: <FAQ />, path: '/faq' },
@@ -51,12 +67,12 @@ export default function App(props: Props) {
       path: '',
       element:
         <Box component="main" sx={{ p: 3 }}>
-          <Menu children={items} title='Meister' setPrefersDarkMode={setPrefersDarkMode} prefersDarkMode={prefersDarkMode}></Menu>
+          <Menu children={menuItems} title='Meister' setPrefersDarkMode={setPrefersDarkMode} prefersDarkMode={prefersDarkMode}></Menu>
           <Toolbar />
           <Outlet />
           <ScrollRestoration />
         </Box>,
-      children: items,
+      children: routes,
       errorElement: <NotFound />
     }
   ], {
