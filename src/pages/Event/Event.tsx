@@ -1,7 +1,7 @@
 import { Stack, Typography,ImageList,ImageListItem } from '@mui/material';
 import img_1 from './img/1.jpg'
 import img_2 from './img/2.jpg'
-import calendar from './img/calendar.png'
+import calendar from './img/new_calender.png'
 import Tour from './Tour/Tour';
 import Wing from './Wing/Wing';
 import Meeting from './Meeting/Meeting';

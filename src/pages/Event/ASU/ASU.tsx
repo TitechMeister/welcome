@@ -14,7 +14,7 @@ export default function ASU() {
                     昨年の8月から、私たちは鳥人間コンテストに向けて機体を製作してきました。<br />
                     みんなで作った機体を初めて組み上げるのが、このASUです。<br />
                     実際の機体を近くで見ることができる数少ない機会です！<br />
-                    興味ある方は前日までにTwitterまたはLINEで連絡してください。
+                    興味ある方は前日までにXまたはメールで連絡してください。
                 </Typography>
                 <ImageList>
                     <ImageListItem key="1">

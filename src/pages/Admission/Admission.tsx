@@ -11,7 +11,7 @@ function Admission() {
                     <CardHeader title='1. Google Formで登録' />
                     <CardContent>
                         <Typography paragraph>
-                            <Button href='https://forms.gle/J7LJuQRNeTrh3UsG8' variant='outlined'>Google Form</Button>に学籍番号や名前などを入力し提出しましょう！　確認のメールが来るかチェックしてください！
+                            <Button href='https://forms.gle/261tEs5o1YYBgFoH7' variant='outlined'>Google Form</Button>に学籍番号や名前などを入力し提出しましょう！　確認のメールが来るかチェックしてください！
                         </Typography>
                     </CardContent>
                 </Card>
@@ -22,7 +22,7 @@ function Admission() {
                         <Typography paragraph>
                             倉庫に直接足を運んでいただき、入部フォームの照会と連絡先の登録を行ってもらいます！
                         </Typography>
-                        <Alert severity='info' >倉庫に来られない場合は Meister 新歓公式LINEに登録した後、部員の指示に従って部内 Discord に入って貰います！</Alert>
+                        <Alert severity='info' >倉庫に来られない場合は Meister のメールアドレスに連絡をいただいたあと、部員の指示に従って部内 Discord に入って貰います！</Alert>
                     </CardContent>
                 </Card>
 

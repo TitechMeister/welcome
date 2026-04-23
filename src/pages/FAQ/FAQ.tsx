@@ -59,16 +59,12 @@ function FAQ() {
                 <QACard question='もっと詳しい話を聞きたいんですが……。'>
                     <Typography variant="body1" padding={2} >
                         Mail:
-                        <a href="meister.shinkan2025@gmail.com">
-                            meister.shinkan2025@gmail.com
+                        <a href="mailto:meister.shinkan2026@gmail.com">
+                            meister.shinkan2026@gmail.com
                         </a><br />
-                        Twitter:
+                        X:
                         <a href="https://x.com/meister_welcome">
                             @meister_welcome
-                        </a><br />
-                        LINE:
-                        <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=722fzwlk">
-                            Meister新歓
                         </a><br />
                         Instagram:
                         <a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">

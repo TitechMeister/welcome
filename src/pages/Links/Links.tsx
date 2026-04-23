@@ -3,7 +3,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import HomeIcon from '@mui/icons-material/Home';
-import img_line_logo from './img/LINE_Brand_icon.png'
+
 import { Instagram } from '@mui/icons-material';
 
 function Links() {
@@ -27,7 +27,7 @@ function Links() {
                             <Avatar  sx={{ color: '#1DA1F2',bgcolor: 'white' }}>
                                 <TwitterIcon />
                             </Avatar>
-                            <Typography variant='h6' padding={2}><a href="https://x.com/meister_welcome">公式Twitter</a></Typography>
+                            <Typography variant='h6' padding={2}><a href="https://x.com/meister_welcome">公式X</a></Typography>
                         </Stack>
                     </Card>
                 </ListItem>
@@ -61,15 +61,7 @@ function Links() {
                         </Stack>
                     </Card>
                 </ListItem>
-                <ListItem>
-                    <Card sx={{ margin: 1 }}>
-                        <Stack direction="row" alignItems={'center'}>
-                            <Avatar src={img_line_logo} sx={{ color: 'white',bgcolor: 'green' }}>
-                            </Avatar>
-                            <Typography variant='h6' padding={2}><a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=722fzwlk">LINE</a></Typography>
-                        </Stack>
-                    </Card>
-                </ListItem>
+
             </List>
         </div >
     )

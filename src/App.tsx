@@ -7,7 +7,6 @@ import Teams from './pages/Teams/Teams';
 import Event from './pages/Event/Event';
 import Links from './pages/Links/Links';
 import FAQ from './pages/FAQ/FAQ';
-import Interview from './pages/Interview/Interview';
 import Access from './pages/Access/Access';
 import NotFound from './pages/NotFound';
 import Admission from './pages/Admission/Admission';
@@ -22,7 +21,6 @@ interface Props {
 
 const items = [
   { title: 'トップ', element: <Home />, path: '/' },
-  { title: 'インタビュー', element: <Interview />, path: '/interview' },
   { title: '班紹介', element: <Teams />, path: '/teams' },
   { title: '新歓イベント', element: <Event />, path: '/event' },
   { title: 'よくある質問', element: <FAQ />, path: '/faq' },
