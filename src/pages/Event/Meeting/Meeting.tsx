@@ -13,7 +13,7 @@ export default function Meeting() {
                 </Typography>
                 <ImageList>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="Zoom説明会の様子" />
                     </ImageListItem>
                 </ImageList>
             </CardContent>

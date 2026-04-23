@@ -67,7 +67,7 @@ function FAQ() {
                             @meister_welcome
                         </a><br />
                         Instagram:
-                        <a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">
+                        <a href="https://www.instagram.com/sciencetokyomeister_pr?igsh=eGkxZTBib2pwcWdo">
                             東京科学大学Meister新歓
                         </a>
                     </Typography>

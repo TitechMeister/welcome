@@ -37,7 +37,7 @@ function Links() {
                             <Avatar  sx={{ color: 'orange',bgcolor: 'white' }}>
                                 <Instagram />
                             </Avatar>
-                            <Typography variant='h6' padding={2}><a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">公式Instagram</a></Typography>
+                            <Typography variant='h6' padding={2}><a href="https://www.instagram.com/sciencetokyomeister_pr?igsh=eGkxZTBib2pwcWdo">公式Instagram</a></Typography>
                         </Stack>
                     </Card>
                 </ListItem>

@@ -11,13 +11,13 @@ export default function Electronics() {
             <CardContent>
                 <ImageList cols={3} gap={8}>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="電操班の作業風景1" />
                     </ImageListItem>
                     <ImageListItem key="2">
-                        <img src={img_2} />
+                        <img src={img_2} alt="電操班の作業風景2" />
                     </ImageListItem>
                     <ImageListItem key="3">
-                        <img src={img_3} />
+                        <img src={img_3} alt="電操班の作業風景3" />
                     </ImageListItem>
                 </ImageList>
 

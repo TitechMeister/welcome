@@ -11,13 +11,13 @@ export default function Drive() {
             <CardContent>
                 <ImageList cols={3} gap={8} sx={{maxHeight:600}}>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="駆動班の作業風景1" />
                     </ImageListItem>
                     <ImageListItem key="2">
-                        <img src={img_2} />
+                        <img src={img_2} alt="駆動班の作業風景2" />
                     </ImageListItem>
                     <ImageListItem key="3">
-                        <img src={img_3} />
+                        <img src={img_3} alt="駆動班の作業風景3" />
                     </ImageListItem>
                 </ImageList>
 

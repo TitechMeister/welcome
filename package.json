@@ -1,6 +1,7 @@
 {
   "name": "welcome",
   "private": true,
+  "description": "Meister 新歓サイト 2026",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

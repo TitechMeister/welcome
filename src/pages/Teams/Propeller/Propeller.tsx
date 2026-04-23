@@ -10,10 +10,10 @@ export default function Propeller() {
             <CardContent>
                 <ImageList>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="プロペラ班の作業風景1" />
                     </ImageListItem>
                     <ImageListItem key="2">
-                        <img src={img_2} />
+                        <img src={img_2} alt="プロペラ班の作業風景2" />
                     </ImageListItem>
                 </ImageList>
 

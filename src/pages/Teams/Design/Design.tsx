@@ -9,7 +9,7 @@ export default function Design() {
             <CardContent>
                 <ImageList>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="全体設計のイメージ" />
                     </ImageListItem>
                 </ImageList>
 

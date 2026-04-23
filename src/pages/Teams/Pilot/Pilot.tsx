@@ -10,10 +10,10 @@ export default function Pilot() {
             <CardContent>
                 <ImageList cols={3} gap={8} sx={{ maxHeight: 600 }}>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="パイロットのトレーニングイメージ1" />
                     </ImageListItem>
                     <ImageListItem key="2">
-                        <img src={img_2} />
+                        <img src={img_2} alt="パイロットのトレーニングイメージ2" />
                     </ImageListItem>
                 </ImageList>
 

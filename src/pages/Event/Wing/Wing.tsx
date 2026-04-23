@@ -11,7 +11,7 @@ export default function Wing() {
                 </Typography>
                 <ImageList>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="作業の様子" />
                     </ImageListItem>
                 </ImageList>
             </CardContent>

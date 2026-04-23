@@ -18,10 +18,10 @@ export default function ASU() {
                 </Typography>
                 <ImageList>
                     <ImageListItem key="1">
-                        <img src={img_1} />
+                        <img src={img_1} alt="ASUの様子1" />
                     </ImageListItem>
                     <ImageListItem key="2">
-                        <img src={img_2} />
+                        <img src={img_2} alt="ASUの様子2" />
                     </ImageListItem>
                 </ImageList>
             </CardContent>

@@ -14,7 +14,7 @@ export default function Contest() {
                 </video>
             </CardMedia>
             <CardContent>
-                2026年度の模型飛行機コンテストは、すでに募集を締め切りました。
+                2026年度の模型飛行機コンテストは、すでに募集を締め切りましたが、倉庫見学はまだまだ開催中なので、ぜひお越しください!!
             </CardContent>
         </Card>
     )

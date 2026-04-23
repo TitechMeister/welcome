@@ -5,20 +5,18 @@ function Access() {
     return (
         <div className="Interview">
             <Typography variant='h4'>アクセス</Typography>
-            <img src={img_map} width={window.innerWidth * 0.8}></img>
+            <img src={img_map} alt="Meister倉庫の外観" width={window.innerWidth * 0.8} />
             <Typography>
-                大岡山から科学大の正門に入り、左の道路に入って5分ほど歩くと、セブンイレブンの真向かいに青い扉があります。
-                この青い扉がMeisterの活動場所(倉庫)です。Meisterに興味のある方、質問がある方、是非見学に来て下さい。
+                大岡山駅から東京科学大の正門を入り、左の道を進んで約5分。セブンイレブンの向かいにある青い扉が、Meisterの活動場所（倉庫）です。
             </Typography>
             <Typography>
-                直接活動場所に来ても大丈夫ですが、部員がいないこともあるため、できるだけ事前に連絡先(
-                  <a href="mailto:meister.shinkan2026@gmail.com">メール</a>、
-                  <a href="https://www.instagram.com/tokyotechmeister_pr?igsh=MW1ieTdmdmt1d3Mxcw%3D%3D&utm_source=qr">Instagram</a>、
-                  <a href="https://x.com/meister_welcome">X</a>
-                  のいずれか )まで連絡をしてください。
+                少しでも興味がある方や、「どんなことやってるの？」と気になっている方は、ぜひ気軽に見学に来てください！
             </Typography>
             <Typography>
-                倉庫見学の詳しい流れは「新歓イベント」ページに掲載しています。見学希望の方はそちらをご確認ください。
+                直接来ていただいてもOKですが、部員がいない場合もあるので、できるだけ事前にメール・Instagram・Xのいずれかでご連絡をお願いします。
+            </Typography>
+            <Typography>
+                見学の流れについては「新歓イベント」ページにまとめているので、そちらもぜひチェックしてみてください！
             </Typography>
         </div>
     )

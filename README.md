@@ -1,4 +1,4 @@
-# Meister新歓サイト
+# Meister新歓サイト 2026
 
 ## About
 
