@@ -17,19 +17,9 @@ function Access() {
                   <a href="https://x.com/meister_welcome">X</a>
                   のいずれか )まで連絡をしてください。
             </Typography>
-            <Card sx={{marginTop:2}}>
-                <CardHeader title="倉庫見学の流れ" />
-                <CardContent>
-                    <Typography>
-                        見学希望の方は、下の連絡先のいずれかに「見学したい日時」を送ってください。新歓担当からの案内に従って来ていただければ大丈夫です。
-                    </Typography>
-                    <ol>
-                        <li>メール（<a href="mailto:meister.shinkan2026@gmail.com">meister.shinkan2026@gmail.com</a>）・X・Instagramのいずれかで、見学希望の日時をお知らせください。</li>
-                        <li>新歓担当の案内に従って、指定の日時にお越しください。</li>
-                    </ol>
-                    <Typography sx={{marginTop:1}}>見学はいつでも歓迎です。お気軽にご連絡ください！</Typography>
-                </CardContent>
-            </Card>
+            <Typography>
+                倉庫見学の詳しい流れは「新歓イベント」ページに掲載しています。見学希望の方はそちらをご確認ください。
+            </Typography>
         </div>
     )
 }
